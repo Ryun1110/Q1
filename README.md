@@ -129,9 +129,6 @@ Below is a brief description of each file:
   - The default resolution is `512 x 512`.  
   - The field of view and near plane dimensions are set by `[l, r, b, t, d] = [-0.1, 0.1, -0.1, 0.1, 0.1]`.
 
-- **Gamma Correction & Antialiasing**  
-  - The sample code in this repository does not yet include explicit gamma correction or antialiasing. For Assignment 2 (Phong shading, gamma correction, and antialiasing), you would expand this code accordingly (e.g., by supersampling each pixel).
-
 - **Modifications**  
   - You can freely edit camera parameters, field of view, or resolution.  
   - If you use alternative libraries for the windowing system, ensure to modify the main loop and image-display routine accordingly.
