@@ -12,8 +12,7 @@ This project is a simple ray tracer that renders a scene containing a plane and 
 3. [Dependencies](#dependencies)  
 4. [Building and Running](#building-and-running)  
 5. [Implementation Details](#implementation-details)  
-6. [Usage Notes](#usage-notes)  
-7. [References](#references)
+6. [Usage Notes](#usage-notes) 
 
 ---
 
